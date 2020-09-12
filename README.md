@@ -7,5 +7,5 @@ Project utilizes Python's pandas and NumPy libraries to understand US bikeshare 
 #### Files used
 Project uses chicago.csv, new_york_city.csv and washington.csv datasets.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+#### Credits
+Project was build as a part of Udacity's Programming for Data Science with Python Nanodegree Program. More information about the program can be found [here](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
